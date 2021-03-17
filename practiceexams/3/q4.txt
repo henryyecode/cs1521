@@ -1,0 +1,15 @@
+# COMP1521 18s1 Exam Q4
+
+A.
+
+i)    x | y == 1111111011111100
+
+ii)   x & y == 0001001000010100
+
+iii)  x ^ y == 1110110011101000
+
+iv)   ~ x   == 1110110111001011
+
+B.
+
+The function f() turns y into x and x into y

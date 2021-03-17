@@ -1,0 +1,23 @@
+# COMP1521 18s1 Exam Q9
+
+A.
+
+i)
+
+make sure there is at most 1 reader
+
+ii)
+
+make sure there is at most 1 wrieter
+
+
+B.
+
+i) sem_init(mx, 0, 1);
+
+ii) sem_post(w);
+
+
+C. 
+
+

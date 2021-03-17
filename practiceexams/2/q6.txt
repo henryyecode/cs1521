@@ -1,0 +1,37 @@
+Q6 COMP1921 17s2 Final Exam
+
+A.
+
+sizeof(Node) = 8
+
+B.
+
+not enough space 
+
+
+C.
+
+Node *L; // is set to list shown on diagram
+
+// code to convert Before ...
+
+ 
+...
+
+// ... into After
+Node *temp = malloc (sizeof (Node));
+temp->value = 4;
+temp->next = L->next;
+L->next = temp;
+
+D.
+
+void freeNodes(Node *L)
+{
+    if (L == NULL) {
+        return;
+    }
+    freeNodes(L->next);
+    free(L);
+    
+}

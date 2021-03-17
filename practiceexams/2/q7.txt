@@ -1,0 +1,20 @@
+Q7 COMP1521 17s2 Final Exam
+
+A.
+
+i)    0x3FFF
+
+ii)    0xA710
+
+iii)  Page Fault
+
+iv)   0x002A
+
+B.
+
+i)   8
+
+ii)  5
+
+iii) Code 0
+

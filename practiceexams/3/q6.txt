@@ -1,0 +1,27 @@
+# COMP1521 18s1 Exam Q6
+
+A.
+
+i)
+
+Region1 is Code Region
+
+ii)
+
+Region2 is Data Region
+
+iii)
+
+Region3 is Heap
+
+iv)
+
+Region4 is Stack
+
+B.
+
+...Region 3, the heap
+
+C.
+
+... 1 and 2

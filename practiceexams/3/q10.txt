@@ -1,0 +1,18 @@
+# COMP1521 18s1 Exam Q10
+
+A.
+
+DNS stands for Domain Name Service.
+it maps names to their respective IP addresses
+
+
+B.
+
+localhost
+
+C.
+
+ s = socket (AF_INET, SOCK_STREAM, IP);
+    connect (s, &serverAddr, Size);
+    write (s, &message, strlen (message) + 1);
+    read (s, &buffer, bufferLen);

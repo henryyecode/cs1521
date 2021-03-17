@@ -1,0 +1,25 @@
+# COMP1521 18s1 Exam Q8
+
+A.
+
+A function Call deals with charsized streams
+A syscall deals with bytesized streams
+* syscall performs a context switch from user to privileged, regulare function does not
+
+B.
+
+i)  malloc, free
+
+ii) the time from malloc to free
+
+
+C.
+
+4
+
+D.
+
+i)  0 or child pid or -1
+ii) nothing or -1
+
+

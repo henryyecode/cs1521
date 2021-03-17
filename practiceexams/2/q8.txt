@@ -1,0 +1,21 @@
+Q8 COMP1521 17s2 Final Exam
+
+A.
+
+ one of them is a stamdard liobrbay
+ the other is a POS
+
+B.
+
+cs1521
+
+C.
+
+i)
+x
+
+ii)
+rx
+
+iii)
+rwx

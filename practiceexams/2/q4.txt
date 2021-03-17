@@ -1,0 +1,27 @@
+Q4 COMP1521 17s2 Final Exam
+
+A.
+
+i)   42
+
+ii)  -3
+
+iii) &
+
+iv)  ~
+
+v)   10.0
+
+vi)  -1.5
+
+B.
+
+i)  68
+
+ii)  60
+
+C.
+
+8 all components share tre same piece of memory in a uniopn
+
+

@@ -1,0 +1,26 @@
+Q9 COMP1521 17s2 Final Exam
+
+A.
+
+#processes = 8
+
+
+B.
+
+
+Student:
+   
+   go to library
+   
+   get a study room
+   sem_wait(sem Rooms)
+   study for a while
+   leave library
+   sem_signal(sem Rooms)
+
+
+Library:
+   
+   sem_init (sem Rooms, 10)
+   
+   open the study rooms
